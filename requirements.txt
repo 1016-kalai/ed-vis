@@ -1,0 +1,4 @@
+TTS
+numpy==1.24.0
+googletrans==4.0.0-rc1
+ipywidgets
